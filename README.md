@@ -1,7 +1,7 @@
-# Photopea Offline
+# Pixelloop
 
-## Why I made this
-The creator of [Photopea](https://www.photopea.com/), a great free alternative to Photoshop, is not interested on making an offline version, so I took it upon myself to make it.
+
+The creator of [Pixelloop](https://www.photopea.com/), a great free alternative to Photoshop.
 
 ## Issues
 If there are any issues, please let me know. I tried to get fonts working the best I could, but there is very little documentation, so I had to work with an outdated list. If there are any fonts missing, and I will add them in individually. 
