@@ -11,4 +11,4 @@ If there are any issues, please let me know. I tried to get fonts working the be
 1. Open a terminal
 1. `cd` into the folder where you downloaded it
 1. In the folder, type `python -m http.server`
-1. Open [http://localhost:8000/www.photopea.com/](http://localhost:8000/www.photopea.com/). It should load and you can use it like normal.
+1. Open [http://localhost:8000/www.photopea.com/](http://localhost:8000/www.pixelloop.com/). It should load and you can use it like normal.
